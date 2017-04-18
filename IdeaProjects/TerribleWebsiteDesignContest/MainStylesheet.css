@@ -1,0 +1,34 @@
+#main {
+    background-color: chartreuse;
+
+}
+#nav{
+    list-style-type: none;
+    background-color: blue;
+}
+li{
+    display: inline-block;
+}
+
+button{
+    background-color: yellow;
+    color: fuchsia;
+}
+
+button:hover{
+    background-color: darkorchid;
+    color: purple;
+}
+
+#myContainer{
+
+    width: 100px;
+    height: 100px;
+
+}
+
+#myAnimation{
+    background-image: url("Resources/ThugAvi.png");
+    width: 100%;
+    height: 100%;
+}
