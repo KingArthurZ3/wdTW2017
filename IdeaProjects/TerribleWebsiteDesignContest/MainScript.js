@@ -14,35 +14,21 @@ $(document).ready(function(){
         photo.setAttribute('src', data);
     }
 
-    function myMove() {
-        var elem = document.getElementById("#myAnimation");
-        var pos = 0;
-        var id = setInterval(frame, 10);
-        function frame() {
-            if (pos == 1000) {
-                clearInterval(id);
-            } else {
-                pos++;
-                elem.style.top = pos + 'px';
-                elem.style.left = pos + 'px';
-            }
+    $('.box').hide();
+
+    $('#fakeSelector1').on('click', function() {
+
+        if(buttonCounter == 1){
+            alert('please dont click this again');
+
+        } else if(buttonCounter == 2) {
+            alert('congratulations! Youve been randomly selected as todays winner! click again to claim your prize');
         }
-    }
-
-    $('#fakeSelector1').click(function(){
-
-
-        // if(buttonCounter == 1){
-        //     alert("don't even think about pressing this again, you have been warned");
-        // }
-        if(buttonCounter==1){
-            alert("congratulations, you've won a prize!");
-            $('#myAnimation').show();
-            $('#myAnimation').myMove();
+        else if(buttonCounter == 3) {
+            $('.box').show();
+            $('.box img').toggleClass('clicked');
         }
         buttonCounter++;
     });
-
-
 
 })
