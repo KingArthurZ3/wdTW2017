@@ -1,0 +1,85 @@
+html{
+    overflow-y: scroll;
+}
+
+#main {
+    background-color: chartreuse;
+
+}
+#nav{
+    list-style-type: none;
+    background-color: blue;
+}
+li{
+    display: inline-block;
+}
+
+button{
+    background-color: yellow;
+    color: fuchsia;
+}
+
+button:hover{
+    background-color: darkorchid;
+    color: purple;
+}
+
+.box{
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+ }
+
+.box img {
+    -webkit-transition:2s;
+}
+.box img.clicked{
+    margin-left:40%;
+}
+
+#saxmen{
+    background-color: darkblue;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+#rightGuy{
+    display: inline-block;
+    float: right;
+    width: 400px;
+    height: 400px;
+}
+
+#leftGuy{
+    display: inline-block;
+    float: left;
+    width: 400px;
+    height: 400px;
+}
+
+#header{
+    color: deeppink;
+    height: 100px;
+    margin: auto;
+    position: fixed;
+}
+
+#characters{
+    z-index: 3;
+    margin-top: 30%;
+    display: block;
+    align-content: center;
+    position: relative;
+    width: 100%;
+}
+
+#pictures{
+    list-style: none;
+    display: inline-block;
+    margin: auto;
+}
+#character-header{
+    text-align: center;
+    color: deeppink;
+}
