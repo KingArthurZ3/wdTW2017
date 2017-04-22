@@ -1,6 +1,8 @@
 
 $(document).ready(function(){
     $("#myAnimation").hide();
+    $("#characters").hide();
+    var audio = new Audio('Resources/Danzon_De_Pasion_Sting.mp3');
     var buttonCounter = 0;
 
     function takepicture(videoOutput, width, height) {
@@ -18,17 +20,28 @@ $(document).ready(function(){
 
     $('#fakeSelector1').on('click', function() {
 
-        if(buttonCounter == 1){
+        if (buttonCounter == 0){
             alert('please dont click this again');
 
-        } else if(buttonCounter == 2) {
-            alert('congratulations! Youve been randomly selected as todays winner! click again to claim your prize');
+        } else if(buttonCounter == 1) {
+            alert('congratulations! Youve been randomly selected as todays winner! click here again to claim your prize');
         }
-        else if(buttonCounter == 3) {
+        else if(buttonCounter == 2) {
             $('.box').show();
             $('.box img').toggleClass('clicked');
+            $('.box img').delay(3000).fadeTo(300,0);
+
+            buttonCounter = 0;
         }
         buttonCounter++;
     });
+
+    $('#fakeSelector2').on('click', function(){
+        $("#characters").fadeIn(0,300);
+
+        audio.play();
+    });
+
+
 
 })
