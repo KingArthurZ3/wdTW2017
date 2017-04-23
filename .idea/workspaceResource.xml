@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="678ab132-e9fc-47ac-a0a1-ac16f59582ac" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/AviGun.png" afterPath="$PROJECT_DIR$/AviGun.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/Danzon_De_Pasion_Sting.mp3" afterPath="$PROJECT_DIR$/Danzon_De_Pasion_Sting.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/ThugAvi.png" afterPath="$PROJECT_DIR$/ThugAvi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/brybry.png" afterPath="$PROJECT_DIR$/brybry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/dingdong.png" afterPath="$PROJECT_DIR$/dingdong.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/epicSaxLeft.gif" afterPath="$PROJECT_DIR$/epicSaxLeft.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/epicSaxRight.gif" afterPath="$PROJECT_DIR$/epicSaxRight.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/thepeck.png" afterPath="$PROJECT_DIR$/thepeck.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AviGun.png" afterPath="$PROJECT_DIR$/.idea/Resources/AviGun.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Danzon_De_Pasion_Sting.mp3" afterPath="$PROJECT_DIR$/.idea/Resources/Danzon_De_Pasion_Sting.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ThugAvi.png" afterPath="$PROJECT_DIR$/.idea/Resources/ThugAvi.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/brybry.png" afterPath="$PROJECT_DIR$/.idea/Resources/brybry.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dingdong.png" afterPath="$PROJECT_DIR$/.idea/Resources/dingdong.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/epicSaxLeft.gif" afterPath="$PROJECT_DIR$/.idea/Resources/epicSaxLeft.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/epicSaxRight.gif" afterPath="$PROJECT_DIR$/.idea/Resources/epicSaxRight.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thepeck.png" afterPath="$PROJECT_DIR$/.idea/Resources/thepeck.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="135">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -91,6 +92,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wdTW2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wdTW2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -103,6 +118,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea/Resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
@@ -597,12 +613,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492845059108</updated>
       <workItem from="1492845062994" duration="314000" />
-      <workItem from="1492912593186" duration="199000" />
+      <workItem from="1492912593186" duration="530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="513000" />
+    <option name="totallyTimeSpent" value="844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -648,6 +664,10 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -657,10 +677,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspaceResource.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="135">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
         </state>
       </provider>
