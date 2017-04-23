@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="678ab132-e9fc-47ac-a0a1-ac16f59582ac" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/epicSaxLeft.GIF" afterPath="$PROJECT_DIR$/epicSaxLeft.GIF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/AviGun.png" afterPath="$PROJECT_DIR$/AviGun.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/Danzon_De_Pasion_Sting.mp3" afterPath="$PROJECT_DIR$/Danzon_De_Pasion_Sting.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/Koolaid Man.mp3" afterPath="$PROJECT_DIR$/Koolaid Man.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/ThugAvi.png" afterPath="$PROJECT_DIR$/ThugAvi.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/brybry.png" afterPath="$PROJECT_DIR$/brybry.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/dingdong.png" afterPath="$PROJECT_DIR$/dingdong.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/epicSaxRight.GIF" afterPath="$PROJECT_DIR$/epicSaxRight.GIF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/thepeck.png" afterPath="$PROJECT_DIR$/thepeck.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,24 +127,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wdTW2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wdTW2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -151,8 +140,8 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/.idea/Resources" />
       <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/.idea/Resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -645,12 +634,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492845059108</updated>
       <workItem from="1492845062994" duration="314000" />
-      <workItem from="1492912593186" duration="5014000" />
+      <workItem from="1492912593186" duration="5119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5328000" />
+    <option name="totallyTimeSpent" value="5433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
