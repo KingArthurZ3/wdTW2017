@@ -8,7 +8,7 @@ html{
 }
 #nav{
     list-style-type: none;
-    background-color: blue;
+    background-color: black;
 }
 li{
     display: inline-block;
@@ -82,6 +82,22 @@ button:hover{
 #character-header{
     text-align: center;
     color: deeppink;
+    height: 60px;
+}
+#textMover{
+    display: block;
+    position: relative;
+    width: 100%;
+    z-index: 6;
+    background-color: red;
+    height: 60px;
+}
+.mover{
+    color: black;
+    z-index: 4;
+    display: block;
+    height: 20px;
+    width: auto;
 }
 
 /*Code for allowing hover to trigger text effect*/
@@ -117,3 +133,5 @@ button:hover{
 .text:hover {
     opacity:1;
 }
+
+
