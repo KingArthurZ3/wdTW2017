@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="678ab132-e9fc-47ac-a0a1-ac16f59582ac" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/AviGun.png" afterPath="$PROJECT_DIR$/AviGun.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/Danzon_De_Pasion_Sting.mp3" afterPath="$PROJECT_DIR$/Danzon_De_Pasion_Sting.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/Koolaid Man.mp3" afterPath="$PROJECT_DIR$/Koolaid Man.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/ThugAvi.png" afterPath="$PROJECT_DIR$/ThugAvi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/brybry.png" afterPath="$PROJECT_DIR$/brybry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/dingdong.png" afterPath="$PROJECT_DIR$/dingdong.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/epicSaxRight.GIF" afterPath="$PROJECT_DIR$/epicSaxRight.GIF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/thepeck.png" afterPath="$PROJECT_DIR$/thepeck.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="678ab132-e9fc-47ac-a0a1-ac16f59582ac" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -634,12 +624,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492845059108</updated>
       <workItem from="1492845062994" duration="314000" />
-      <workItem from="1492912593186" duration="5119000" />
+      <workItem from="1492912593186" duration="5253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5433000" />
+    <option name="totallyTimeSpent" value="5567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
