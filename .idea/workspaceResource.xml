@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="678ab132-e9fc-47ac-a0a1-ac16f59582ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Resources/Koolaid Man.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/epicSaxLeft.gif" afterPath="$PROJECT_DIR$/.idea/Resources/epicSaxLeft.GIF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/epicSaxRight.gif" afterPath="$PROJECT_DIR$/.idea/Resources/epicSaxRight.GIF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspaceResource.xml" afterPath="$PROJECT_DIR$/.idea/workspaceResource.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainScript.js" afterPath="$PROJECT_DIR$/MainScript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainStylesheet.css" afterPath="$PROJECT_DIR$/MainStylesheet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Resources/epicSaxLeft.GIF" afterPath="$PROJECT_DIR$/epicSaxLeft.GIF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -155,8 +150,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/.idea/Resources" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea/Resources" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
@@ -650,16 +645,15 @@
       <option name="presentableId" value="Default" />
       <updated>1492845059108</updated>
       <workItem from="1492845062994" duration="314000" />
-      <workItem from="1492912593186" duration="4281000" />
+      <workItem from="1492912593186" duration="5014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4595000" />
+    <option name="totallyTimeSpent" value="5328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -675,7 +669,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -744,6 +738,11 @@
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epicSaxLeft.GIF">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
