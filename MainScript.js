@@ -2,7 +2,8 @@
 $(document).ready(function(){
     $("#myAnimation").hide();
     $("#characters").hide();
-    var audio = new Audio('Resources/Danzon_De_Pasion_Sting.mp3');
+    var audio = new Audio('.idea/Resources/Danzon_De_Pasion_Sting.mp3');
+    var aviAudio = new Audio('.idea/Resources/Koolaid Man.mp3');
     var buttonCounter = 0;
 
     function takepicture(videoOutput, width, height) {
@@ -27,6 +28,7 @@ $(document).ready(function(){
             alert('congratulations! Youve been randomly selected as todays winner! click here again to claim your prize');
         }
         else if(buttonCounter == 2) {
+            aviAudio.play();
             $('.box').show();
             $('.box img').toggleClass('clicked');
             $('.box img').delay(3000).fadeTo(300,0);
@@ -42,6 +44,9 @@ $(document).ready(function(){
         audio.play();
     });
 
+    $('#fakeSelector3').on('click', function(){
+
+    });
 
 
 })
