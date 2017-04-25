@@ -3,8 +3,8 @@ $(document).ready(function(){
     $("#myAnimation").hide();
     $("#characters").hide();
     $(".contact").hide();
-    var audio = new Audio('.idea/Resources/Danzon_De_Pasion_Sting.mp3');
-    var aviAudio = new Audio('.idea/Resources/Koolaid Man.mp3');
+    var audio = new Audio('Danzon_De_Pasion_Sting.mp3');
+    var aviAudio = new Audio('Koolaid Man.mp3');
     var buttonCounter = 0;
     //
     // var move1 = $("#move1");
@@ -58,9 +58,10 @@ $(document).ready(function(){
     });
 
     $('#fakeSelector2').on('click', function(){
+        audio.play();
         $("#characters").fadeIn(0,300);
 
-        audio.play();
+
     });
 
     $('#fakeSelector3').on('click', function(){
