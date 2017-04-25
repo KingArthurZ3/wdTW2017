@@ -111,6 +111,14 @@ button:hover{
 #us{
     padding-top: 10%;
 }
+#watch{
+    background-color: goldenrod;
+
+}
+#construction{
+    background-color: darkblue;
+    color: red;
+}
 
 /*Code for allowing hover to trigger text effect*/
 
