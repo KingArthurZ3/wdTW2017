@@ -10,7 +10,12 @@ $(document).ready(function(){
     // var move1 = $("#move1");
     // var move2 = $("#move2");
     // var move3 = $("#move3");
-
+    var sexySax = new Audio('SexySaxGuy.mp3');
+    sexySax.addEventListener('ended', function() {
+        this.currentTime = 0;
+        this.play();
+    }, false);
+    sexySax.play();
 
 
     // function movePictureLeft(pictureToMove){
