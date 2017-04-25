@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="MainStylesheet.css">
     <script src="jquery-3.2.1.min.js"></script>
     <script src="MainScript.js"></script>
+    <script src="jqueryMarquee.js"></script>
 </head>
 <body id="main">
     <ul id="nav">
@@ -18,18 +19,21 @@
         <img src="ThugAvi.png" width="300"/>
     </div>
     <li id="textMover">
-        <text id="move1" class="mover">I'm a piece of fast text</text>
-        <text id="move2" class="mover">I'm faster than that one!</text>
-        <text id="move3" class="mover">I'm the fastest one! </text>
+        <marquee id="move1" class="mover" behavior="scroll" scrollamount="10" direction="right">I'm a piece of fast text</marquee>
+        <marquee id="move2" class="mover" behavior="scroll" scrollamount="15" direction="right">I'm faster than that one!</marquee>
+        <marquee id="move3" class="mover" behavior="scroll" scrollamount="25" direction="right">I'm the fastest one! </marquee>
     </li>
     <div id ="saxmen" >
         <img src="epicSaxLeft.GIF" id ="rightGuy">
         <text id="header">Welcome to Web Dev! Click any of the buttons to start learning!</text>
+        <text class="contact" id="us">cont4ct us at  1-800-git-gud </text>
+        <text class="contact" id="watch">Watch Out</text>
+        <text class="contact" id="construction">UnderConstruction</text>
         <img src = "epicSaxRight.GIF" id="leftGuy">
     </div>
 
     <div id="characters">
-        <h4 id="character-header">Meet the Krew</h4>
+        <h4 id="character-header">Meet the Krew Hover over to git mo info</h4>
         <ul id="pictures">
             <a href="#" class="wrapper">
                  <span class="text">

@@ -2,9 +2,28 @@
 $(document).ready(function(){
     $("#myAnimation").hide();
     $("#characters").hide();
+    $(".contact").hide();
     var audio = new Audio('.idea/Resources/Danzon_De_Pasion_Sting.mp3');
     var aviAudio = new Audio('.idea/Resources/Koolaid Man.mp3');
     var buttonCounter = 0;
+    //
+    // var move1 = $("#move1");
+    // var move2 = $("#move2");
+    // var move3 = $("#move3");
+
+
+
+    // function movePictureLeft(pictureToMove){
+    //     pictureToMove.animate({left:'1500px'}, 600, movePictureLeft())
+    // }
+    //
+    // function movePictureRight(pictureToMove){
+    //     pictureToMove.animate({left:'0px'}, 600, movePictureRight())
+    // }
+    //
+    // movePictureRight(move1);
+    // movePictureRight(move2);
+    // movePictureRight(move3);
 
     function takepicture(videoOutput, width, height) {
         var canvas = document.getElementById('canvas'),
@@ -45,7 +64,7 @@ $(document).ready(function(){
     });
 
     $('#fakeSelector3').on('click', function(){
-
+        $(".contact").fadeIn(0,300);
     });
 
 
